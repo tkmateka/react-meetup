@@ -1,0 +1,23 @@
+.inputFields {
+  margin-bottom: 1em;
+}
+
+.inputFields input,
+.inputFields textarea {
+  display: block;
+  width: 100%;
+}
+
+.inputFields input {
+  height: 40px;
+}
+
+.actionButtonContainer button {
+  height: 40px;
+  width: 100px;
+  border-radius: 7px;
+  background-color: #ec407a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

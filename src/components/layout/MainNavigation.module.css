@@ -1,0 +1,32 @@
+.header {
+  background-color: #ec407a;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  color: #fce4ec;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.navBar li {
+  list-style: none;
+  display: inline-block;
+  padding: 5px 10px;
+}
+.navItems {
+  text-decoration: none;
+  color: #fce4ec;
+  font-weight: bold;
+}
+.navItems:hover {
+  color: #c9b2ba;
+}
+.badge {
+  padding: 2px 5px;
+  font-size: 10px;
+  background: black;
+  border-radius: 50%;
+  margin: 0.5em;
+}
